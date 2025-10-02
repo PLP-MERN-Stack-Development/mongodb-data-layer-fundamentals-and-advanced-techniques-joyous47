@@ -1,0 +1,33 @@
+# 📚 MongoDB – Data Layer Fundamentals and Advanced Techniques (Week 1)
+
+## 🚀 Objective
+This project demonstrates the fundamentals of MongoDB, including:
+- Database and collection creation
+- CRUD operations
+- Advanced queries (filtering, projection, sorting, pagination)
+- Aggregation pipelines
+- Indexing and performance analysis
+
+The database used is **`plp_bookstore`** with a collection named **`books`**.
+
+---
+
+## 📂 Project Structure
+- **insert_books.js** → Script to insert at least 10 sample book documents
+- **queries.js** → MongoDB queries covering CRUD, advanced queries, aggregations, and indexing
+- **README.md** → Instructions and documentation
+- **screenshot.png** → MongoDB Compass screenshot showing the `books` collection
+
+---
+
+## 🛠️ Setup Instructions
+
+### 1. Install MongoDB
+- Install **MongoDB Community Edition** locally  
+  OR  
+- Create a free **MongoDB Atlas cluster**.
+
+### 2. Clone the Repository
+```bash
+git clone <your-repo-link>
+cd <repo-folder>
